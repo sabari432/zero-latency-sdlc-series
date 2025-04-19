@@ -2,7 +2,6 @@
 
 > 🚀 Where learning meets speed, and skills go live.
 
-![YouTube](https://www.youtube.com/channel/UCOB45jIWFwAjJK1MhAQNOlw)  
 📌 A complete resource for mastering **Software Development Life Cycle (SDLC)** concepts with real-world examples and clear explanations.
 
 ---

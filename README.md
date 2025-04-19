@@ -2,7 +2,7 @@
 
 > 🚀 Where learning meets speed, and skills go live.
 
-![YouTube](https://img.shields.io/badge/YouTube-Zero%20Latency-red?style=for-the-badge&logo=youtube)  
+![YouTube](https://www.youtube.com/channel/UCOB45jIWFwAjJK1MhAQNOlw)  
 📌 A complete resource for mastering **Software Development Life Cycle (SDLC)** concepts with real-world examples and clear explanations.
 
 ---
